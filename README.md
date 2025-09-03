@@ -1,12 +1,43 @@
-# React + Vite
+#Apple Max
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#Telepítés
+1. Előfeltételek:
+- Node.js (ajánlott a legújabb LTS verzió)
+- Git
 
-Currently, two official plugins are available:
+2.Telepítési lépések:
+- Klónozd a tárolót a helyi gépedre:
+```
+git clone https://github.com/dajkagabi/apple-max.git
+cd apple-max
+```
+3. Telepítsd a függőségeket:
+```
+npm install
+```
+4. Indítsd el a fejlesztői szervert:
+```
+npm run dev
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A projekt mostantól elérhető a böngésződben a http://localhost:5173/ címen.
 
-## Expanding the ESLint configuration
+5. Funkciók:
+- Termékinformációk
+- Reszponzív dizájn
+- Intuitív navigáció
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+6. Technológia
+Főbb technológiák:
+- Vite
+- React:
+- Tailwind CSS
+  
+7. Könyvtárak
+
+- @vitejs/plugin-react
+- react
+- react-dom
+- lucide-react
+- tailwindcss
+- eslint
