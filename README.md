@@ -1,6 +1,6 @@
-#Apple Max
+# Apple Max
 
-#Telepítés
+# Telepítés
 1. Előfeltételek:
 - Node.js (ajánlott a legújabb LTS verzió)
 - Git
